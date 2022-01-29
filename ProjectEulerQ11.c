@@ -79,4 +79,8 @@ int main(void)
             }
         }
     }
+
+    printf("%d\n", maxProduct);
+
+    return 0;
 }

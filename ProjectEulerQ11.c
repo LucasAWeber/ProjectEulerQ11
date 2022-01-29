@@ -17,7 +17,8 @@ int main(void)
     {
         for (int j = 0; j < 20; j++)
         {
-            printf("%d", num[i][j]);
+            printf("%d ", num[i][j]);
         }
+        printf("\n");
     }
 }
